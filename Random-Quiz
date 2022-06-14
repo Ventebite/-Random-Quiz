@@ -1,0 +1,25 @@
+Random-Quiz
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/Ventebite/TEstRandom-Quiz.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[lfs]
+	repositoryformatversion = 0
+
+Unnamed repository; edit this file 'description' to name the repository.
+
+0414e729601060d62af789c9a50d7c57ce394861		branch 'main' of https://github.com/Ventebite/Random-Quiz
+
+ref: refs/heads/main
